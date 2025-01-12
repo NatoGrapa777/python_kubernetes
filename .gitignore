@@ -1,4 +1,4 @@
-# Byte-compiled / optimized / DLL files
+# Byte-compiled / optimized / DLL files TODO bytecode-confirm this with Val
 __pycache__/
 *.py[cod]
 *$py.class
